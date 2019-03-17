@@ -1,5 +1,5 @@
-fruits = ["apple", "banana", "cherry"]
-for x in fruits:
-  if x == "banana":
-    continue
-  print(x)
+public class Hello {
+    public static void main(String args[]){
+        System.out.println("I'm dancing");
+    }
+}
